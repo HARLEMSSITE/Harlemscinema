@@ -1,0 +1,86 @@
+
+<html> 
+<head>
+
+<style>
+body{
+    margin:0;
+	padding:0;
+	background:#ccc;
+}
+.nav ul {
+    list-style:none;
+    background:#663366;
+    text-align:center;
+    padding:0;	
+	margin:0;
+}
+.nav li{
+    display:inline-block;
+ }
+ .nav a{
+     text-decoration:none;
+	 color:#fff;
+	 width:100px;
+	 display:block;
+	 padding:15px;
+	 font-size:17px;
+	 font-family:Helvetica;
+}
+.nav a:hover{
+    background:#000;
+	transition:0.6s;
+}
+.left {
+  display: block;
+  margin-left: auto;
+  width: 15%;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+</style>
+</head>
+<body>
+<div class="nav">
+   <ul>
+     <li><a href="U:\ONLINE\Dean\Assessment\Cinema website\my WEBSITE ASSESSMENT""#"> Home</a>  </li>
+	 <li><a href="U:\ONLINE\Dean\Assessment\Cinema website\FILMS 2""#"> FILMS</a>  </li>
+	<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\TICKETS1""#"> TICKETS </a>  </li>
+	<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\LOGIN .html""#"> LOGIN </a>  </li>
+</ul>
+</ul>
+
+
+</div>
+
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdR0cY0EWSaICv6nf5HREkal8sm570FLpoCxBY9aUopzgSMBQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7628""#"><h1 style="text-align:center;"> BUY THIS TICKET </a>  </li>
+
+
+<a ="CINEMA SEATING.html">
+   
+<img src="U:\ONLINE\Dean\images\MN.jpeg" width="33%;" hspace="30" alt="Mulan" class="center">
+ 
+ </a>
+ 
+ <a ="CINEMA SEATING.html">
+   
+ <img src="U:\ONLINE\Dean\images\CSR.jpg" width="43%;" hspace="30" alt="BLOODSHOT" class="center"> 
+ 
+ </a>
+ 
+<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\Purchasing page22""#"><h1 style="text-align:center;"> PURCHASE</a>  </li>
+

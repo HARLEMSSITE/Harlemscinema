@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html> 
+<head>
+
+<style>
+body{
+    margin:0;
+	padding:0;
+	background:#ccc;
+}
+.nav ul {
+    list-style:none;
+    background:#663366;
+    text-align:center;
+    padding:0;	
+	margin:0;
+}
+.nav li{
+    display:inline-block;
+ }
+ .nav a{
+     text-decoration:none;
+	 color:#fff;
+	 width:100px;
+	 display:block;
+	 padding:15px;
+	 font-size:17px;
+	 font-family:Helvetica;
+}
+.nav a:hover{
+    background:#000;
+	transition:0.6s;
+}
+.left {
+  display: block;
+  margin-left: auto;
+  width: 15%;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+</style>
+</head>
+<body>
+<div class="nav">
+   <ul>
+    <li><a href="#"> HOME               </a>  </li>
+	<li><a href="#"> FILMS              </a>  </li>
+	<li><a href="#"> TICKETS            </a>  </li>
+	<li><a href="#"> OFFERS & MEMBERSHIP</a>  </li>
+	<li><a href="#"> GIFTS              </a>  </li>
+</ul>
+
+
+</div>
+
+   
+ <img src="U:\ONLINE\Dean\images\BS.jpg" width="28%;" hspace=" 180 " vspace=" 80 "alt="BLOODSHOT" class="center">  
+ <center><p> ...........................................

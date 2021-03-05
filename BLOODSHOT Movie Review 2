@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html> 
+<head>
+
+<style>
+body{
+    margin:0;
+	padding:0;
+	background:#ccc;
+}
+.nav ul {
+    list-style:none;
+    background:#663366;
+    text-align:center;
+    padding:0;	
+	margin:0;
+}
+.nav li{
+    display:inline-block;
+ }
+ .nav a{
+     text-decoration:none;
+	 color:#fff;
+	 width:100px;
+	 display:block;
+	 padding:15px;
+	 font-size:17px;
+	 font-family:Helvetica;
+}
+.nav a:hover{
+    background:#000;
+	transition:0.6s;
+}
+.left {
+  display: block;
+  margin-left: auto;
+  width: 15%;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+</style>
+</head>
+<body>
+<div class="nav">
+   <ul>
+     <li><a href="U:\ONLINE\Dean\Assessment\Cinema website\my WEBSITE ASSESSMENT""#"> Home</a>  </li>
+	 <li><a href="U:\ONLINE\Dean\Assessment\Cinema website\FILMS 2""#"> FILMS</a>  </li>
+	<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\TICKETS1""#"> TICKETS </a>  </li>
+	<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\LOGIN .html""#"> LOGIN </a>  </li>
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+   
+ <img src="U:\ONLINE\Dean\images\BS.jpg" width="28%;" hspace=" 460 " vspace=" 30 "alt="BLOODSHOT" class="center">  
+ <center><p>
+ 
+ 
+ <p> Bloodshot is a 2020 American superhero film based on the Valiant Comics character of the same name. It is intended to be the first installment in a series of films set within a Valiant Comics shared cinematic universe.[3] Directed by David S. F. Wilson (in his feature directorial debut) from a screenplay by Jeff Wadlow and Eric Heisserer and a story by Wadlow,[4] the film stars Vin Diesel, Eiza González, Sam Heughan, Toby Kebbell, and Guy Pearce. It follows a Marine who was killed in action, only to be brought back to life with superpowers by an organization that wants to use him as a weapon.
+
+Bloodshot was theatrically released in the United States on March 13, 2020, by Sony Pictures Releasing. The film grossed $37 million worldwide and received mixed reviews from critics. Due to the COVID-19 pandemic closing theaters across the globe, Sony made the film available digitally on-demand less than two weeks after it was released theatrically. A sequel is in development.  </p>
+ 
+</body>
+ </html>

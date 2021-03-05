@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html> 
+<head>
+
+<style>
+body{
+    margin:0;
+	padding:0;
+	background:#ccc;
+}
+.nav ul {
+    list-style:none;
+    background:#663366;
+    text-align:center;
+    padding:0;	
+	margin:0;
+}
+.nav li{
+    display:inline-block;
+ }
+ .nav a{
+     text-decoration:none;
+	 color:#fff;
+	 width:100px;
+	 display:block;
+	 padding:15px;
+	 font-size:17px;
+	 font-family:Helvetica;
+}
+.nav a:hover{
+    background:#000;
+	transition:0.6s;
+}
+.left {
+  display: block;
+  margin-left: auto;
+  width: 15%;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+</style>
+</head>
+<body>
+<div class="nav">
+   <ul>
+     <li><a href="U:\ONLINE\Dean\Assessment\Cinema website\my WEBSITE ASSESSMENT""#"> Home</a>  </li>
+	 <li><a href="U:\ONLINE\Dean\Assessment\Cinema website\FILMS 2""#"> FILMS</a>  </li>
+	<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\TICKETS1""#"> TICKETS </a>  </li>
+	<li><a href="U:\ONLINE\Dean\Assessment\Cinema website\LOGIN .html""#"> LOGIN </a>  </li>
+</ul>
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+   
+ <img src="U:\ONLINE\Dean\images\WWN.jpg" width="28%;" hspace=" 460 " vspace=" 30 "alt="Wonder Woman" class="center">  
+ <center><p>
+ 
+ 
+ <p> Wonder Woman 1984 (stylized on-screen and often abbreviated as WW84) is a 2020 American superhero film based on the DC Comics character Wonder Woman. It is the sequel to 2017's Wonder Woman and the ninth installment in the DC Extended Universe (DCEU). The film is directed by Patty Jenkins from a script she wrote with Geoff Johns and Dave Callaham, based on a story by Johns and Jenkins. Gal Gadot stars as Diana Prince / Wonder Woman, alongside Chris Pine, Kristen Wiig, Pedro Pascal, Robin Wright, and Connie Nielsen. Set in 1984 during the Cold War, the film follows Diana and her past love Steve Trevor as they face off against Max Lord and Cheetah.
+
+Discussion of a sequel began shortly after the release of the first film in June 2017 and the decision to proceed was confirmed the following month. Principal photography began on June 13, 2018, with filming taking place at Warner Bros. Studios, Leavesden in England, as well as the District of Columbia and Northern Virginia in the United States, London and Duxford in England, Tenerife and Fuerteventura in the Canary Islands, and Almería in Andalusia, Spain. Production wrapped on December 22, 2018, after a six-month shoot, with additional filming in July 2019.
+
+Wonder Woman 1984 premiered on December 15, 2020, via the DC FanDome virtual platform. It was theatrically released in the United States by Warner Bros. Pictures on December 25, 2020, and also made available to be streamed digitally on HBO Max for a month before it going to premium video on demand. In international markets that do not have HBO Max, the film was theatrically released on December 16, 2020. It received mixed reviews from critics, who praised its "escapist qualities" and Jenkins' take on the 1980s but found it "overindulgent or cliché". The film grossed $161 million worldwide, failing to break even due to the limited theatrical play during the COVID-19 pandemic, but became the most-watched straight-to-streaming title of 2020. </p>
+</body>
+ </html>
